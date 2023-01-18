@@ -36,7 +36,8 @@ Part3: Predictive Modeling
 
 4)Important Features Extraction.
 
-myProfile in Kaggle:https://www.kaggle.com/sirajbhattarai .
+myProfile in Kaggle:https://www.kaggle.com/sirajbhattarai  
+
 the notebook that helped me too write this notebook : https://www.kaggle.com/code/ash316/eda-to-prediction-dietanic
 
 
